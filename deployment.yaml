@@ -17,3 +17,5 @@ spec:
         image: your-dockerhub-username/ci-cd-app:latest
         ports:
         - containerPort: 3000
+
+

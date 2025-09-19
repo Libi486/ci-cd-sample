@@ -29,3 +29,5 @@ jobs:
         kubectl apply -f k8s/service.yaml
       env:
         KUBECONFIG: ${{ secrets.KUBECONFIG }}
+
+
